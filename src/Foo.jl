@@ -1,5 +1,7 @@
 module Foo
 
-greet() = print("Hello World!")
+function greet()
+    print("Hello World!")
+end
 
 end # module Foo
