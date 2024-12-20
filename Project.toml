@@ -1,0 +1,4 @@
+name = "Foo"
+uuid = "7fbc3a47-5eee-4d55-a719-d59fe8202aca"
+authors = ["hao.liu <hao.liu@moon-server>"]
+version = "0.1.0"
